@@ -5,9 +5,26 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: olivedrab;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.bio {
+  background-color:rgb(154, 223, 85);
+  margin-left: 20%;
+  margin-right: 20%;
+  border-top: 16px;
+  padding: 16px;
+  border-radius: 16px;
+}
+
+.name {
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 36px;
 }
