@@ -1,4 +1,4 @@
-function bio() {
+function Bio() {
     return(
         <div class = 'bio'>
             <p>
@@ -6,7 +6,7 @@ function bio() {
                 here at Wesleyan University.
             </p>
             <p>
-                My concentration in the major was on Computers, but along the way I encountered 
+                My concentration in the major was on Computers and computation, but along the way I encountered 
                 other disciplines like electrical engineering and 3D design. Click one of the links
                 below to showcase the projects I completed (or attempted to complete).
             </p>
@@ -14,4 +14,4 @@ function bio() {
     );
 }
 
-export default bio;
+export default Bio;
