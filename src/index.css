@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: olivedrab;
+  background-color: rgb(138, 185, 45);
 }
 
 code {
@@ -17,10 +17,11 @@ code {
   background-color:rgb(154, 223, 85);
   margin-left: 20%;
   margin-right: 20%;
-  border-top: 16px;
   padding: 16px;
   border-radius: 16px;
   margin-bottom: 20px;
+  border-color: black;
+  border-style: solid;
 }
 
 .name {
