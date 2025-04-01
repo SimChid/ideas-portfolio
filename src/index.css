@@ -29,4 +29,11 @@ code {
   margin-left: 10%;
   margin-right: 10%;
   font-size: 36px;
+  color: black;
+  transition: color 0.75s ease;
+}
+
+.name:hover {
+  color: yellowgreen;
+  transition: color 0.75s ease;
 }
