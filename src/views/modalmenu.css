@@ -28,3 +28,8 @@ li{
   background-color: rgb(140, 185, 95);
   transition: background-color 0.3s ease;
 }
+
+Popup{
+  width: 70%;
+  height: 90%;
+}
