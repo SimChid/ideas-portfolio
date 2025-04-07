@@ -31,5 +31,6 @@ li{
 
 Popup{
   width: 70%;
-  height: 90%;
+  max-height: 90%;
+  overflow-y: auto;
 }

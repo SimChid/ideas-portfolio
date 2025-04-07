@@ -8,7 +8,7 @@ function Bio() {
             <p>
                 My concentration in the major was on Computers and computation, but along the way I encountered 
                 other disciplines like electrical engineering and 3D design. Click one of the links
-                below to showcase the projects I completed (or attempted to complete).
+                below to see some projects I completed (or attempted to complete).
             </p>
         </div>
     );
