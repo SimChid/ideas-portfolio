@@ -21,6 +21,11 @@
     margin-bottom: 18px;
 }
 
+.caption{
+    text-align: center;
+    padding: 8px;
+}
+
 .twoimg{
     display: flex;
     justify-content: space-between;
