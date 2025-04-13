@@ -23,6 +23,29 @@ code {
   border-color: black;
   border-style: solid;
   cursor: default;
+  text-align: center;
+}
+
+a {
+  margin-top: 12px;
+  display: inline-block;
+  width: 40%;
+  height: 40px;
+  font-size: 24px;
+  border-radius: 20px;
+  border-color: black;
+  color: black;
+  border-style:solid ;
+  cursor: pointer;
+  text-decoration: none;
+  line-height: 40px;
+  background-color: rgb(175, 229, 122);
+  transition: background-color 0.3s ease;
+}
+
+a:hover{
+  background-color: rgb(140, 185, 95);
+  transition: background-color 0.3s ease;
 }
 
 .name {

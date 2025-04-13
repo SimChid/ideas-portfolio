@@ -1,7 +1,6 @@
 import React from 'react';
 import Popup from 'reactjs-popup';
 import './modalmenu.css';
-import Df from './df.js';
 import Ee from './ee.js';
 import Dml from './dml.js';
 import Sda from './sda.js';
@@ -9,16 +8,6 @@ import Sda from './sda.js';
 function Menu() {
     return(
         <ul className = 'menu'>
-            <li>
-                <Popup
-                    trigger = {<button className = 'button'>Digital Foundations</button>}
-                    modal
-                    contentStyle={{ width: "70%" }}
-                    overlayStyle={{ background: "rgba(0, 0, 0, 0.5)" }}
-                >
-                    {close => <Df close = {close}/>}
-                </Popup>
-            </li>
             <li>
                 <Popup
                     trigger = {<button className = 'button'>Electrical Engineering</button>}
