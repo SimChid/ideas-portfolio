@@ -2,4 +2,4 @@
 
 At the moment, my plan is to create a single-page app with pictures, and there will be modals with my projects.
 
-Here is the link to the page. It is unfinished at the moment. https://simchid.github.io/ideas-portfolio/
+Here is the link to the page. https://simchid.github.io/ideas-portfolio/
