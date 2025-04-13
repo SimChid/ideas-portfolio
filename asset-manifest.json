@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/ideas-portfolio/static/css/main.20a66cd8.css",
-    "main.js": "/ideas-portfolio/static/js/main.2bce3b49.js",
+    "main.css": "/ideas-portfolio/static/css/main.927dde07.css",
+    "main.js": "/ideas-portfolio/static/js/main.b6af92e3.js",
     "static/js/453.e812d7e5.chunk.js": "/ideas-portfolio/static/js/453.e812d7e5.chunk.js",
     "static/media/final2.JPG": "/ideas-portfolio/static/media/final2.b89912d7a6d85569f360.JPG",
     "static/media/wiring.jpg": "/ideas-portfolio/static/media/wiring.a45d54d93e247e4a63c9.jpg",
     "static/media/final1.JPG": "/ideas-portfolio/static/media/final1.da1ecc17f1af21b15306.JPG",
     "static/media/schematic1.JPG": "/ideas-portfolio/static/media/schematic1.0a1f09e2ae1d880597d7.JPG",
     "static/media/schematic2.jpg": "/ideas-portfolio/static/media/schematic2.aca8541f092e51bf828c.jpg",
+    "static/media/LedVuitton.jpg": "/ideas-portfolio/static/media/LedVuitton.7d7dc29efce5bbda03d6.jpg",
+    "static/media/BigBuys.jpg": "/ideas-portfolio/static/media/BigBuys.6ddae28b854303485f57.jpg",
+    "static/media/cubeimage.png": "/ideas-portfolio/static/media/cubeimage.ba6add4bdfc69857f8b7.png",
+    "static/media/cameracode.png": "/ideas-portfolio/static/media/cameracode.f4c94cff9e431da1435f.png",
     "static/media/code.png": "/ideas-portfolio/static/media/code.41ae51566b8f207ffc74.png",
-    "static/media/logo.svg": "/ideas-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/upturn.png": "/ideas-portfolio/static/media/upturn.77de9632c4254d4b34d7.png",
+    "static/media/matrix.png": "/ideas-portfolio/static/media/matrix.9aa4a683d2cd0f4201d3.png",
+    "static/media/DiJaws.jpg": "/ideas-portfolio/static/media/DiJaws.4150d2865d5af5e647cb.jpg",
+    "static/media/ScreamDesGarcons.jpg": "/ideas-portfolio/static/media/ScreamDesGarcons.3fed0daa5071f98dda98.jpg",
+    "static/media/colorcode.png": "/ideas-portfolio/static/media/colorcode.b61198b9df3eafa00007.png",
+    "static/media/turns.png": "/ideas-portfolio/static/media/turns.43b022eb0f5e0d7c6b55.png",
     "index.html": "/ideas-portfolio/index.html",
-    "main.20a66cd8.css.map": "/ideas-portfolio/static/css/main.20a66cd8.css.map",
-    "main.2bce3b49.js.map": "/ideas-portfolio/static/js/main.2bce3b49.js.map",
+    "main.927dde07.css.map": "/ideas-portfolio/static/css/main.927dde07.css.map",
+    "main.b6af92e3.js.map": "/ideas-portfolio/static/js/main.b6af92e3.js.map",
     "453.e812d7e5.chunk.js.map": "/ideas-portfolio/static/js/453.e812d7e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20a66cd8.css",
-    "static/js/main.2bce3b49.js"
+    "static/css/main.927dde07.css",
+    "static/js/main.b6af92e3.js"
   ]
 }
